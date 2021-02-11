@@ -310,5 +310,13 @@
     "symbol": "MLN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/605/thumb/melon.png?1547034295"
+  },
+  {
+    "name": "Golem",
+    "address": "0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429",
+    "symbol": "GLM",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429/logo.png"
   }
 ]
