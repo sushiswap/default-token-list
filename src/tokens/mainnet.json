@@ -1224,6 +1224,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x6399C842dD2bE3dE30BF99Bc7D1bBF6Fa3650E70/logo.png"
   },
   {
+    "address": "0xEC213F83defB583af3A000B1c0ada660b1902A0F",
+    "chainId": 1,
+    "name": "Presearch",
+    "symbol": "PRE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/PresearchOfficial/presearch-brand/master/logos/svg/presearch-icon-border-blue-transparent.svg"
+  },
+  {
     "address": "0x2B89bF8ba858cd2FCee1faDa378D5cd6936968Be",
     "chainId": 1,
     "name": "Wrapped SCRT",
