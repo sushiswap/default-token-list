@@ -320,6 +320,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xa0246c9032bC3A600820415aE600c6388619A14D/logo.png"
   },
   {
+    "address": "0x4C25Bdf026Ea05F32713F00f73Ca55857Fbf6342",
+    "chainId": 1,
+    "name": "Font",
+    "symbol": "FONT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/fontcommunity/Font.community/master/logo.png"
+  },
+  {
     "address": "0xad32A8e6220741182940c5aBF610bDE99E737b2D",
     "chainId": 1,
     "name": "PieDAO",
