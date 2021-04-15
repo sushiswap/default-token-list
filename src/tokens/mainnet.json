@@ -608,6 +608,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x44Ea84a85616F8e9cD719Fc843DE31D852ad7240/logo.png"
   },
   {
+    "address": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
+    "chainId": 1,
+    "name": "Nexo",
+    "symbol": "NEXO",
+    "decimals": 18,
+    "logoURI": "https://cryptologos.cc/logos/nexo-nexo-logo.svg"
+  },
+  {
     "address": "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD",
     "chainId": 1,
     "name": "TerraUSD",
