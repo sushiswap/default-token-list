@@ -120,6 +120,14 @@
     "logoURI": "https://aavegotchi.com/images/ghsttoken.svg"
   },
   {
+    "name": "Audius",
+    "address": "0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998",
+    "symbol": "AUDIO",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998/logo.png"
+  },
+  {
     "name": "HEXX",
     "address": "0x23D29D30e35C5e8D321e1dc9A8a61BFD846D4C5C",
     "symbol": "HEX",
