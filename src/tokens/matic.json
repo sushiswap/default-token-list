@@ -296,6 +296,14 @@
     "logoURI": "https://cdn-images-1.medium.com/max/1200/1*mK1oPGsQWh4Nfupg-e0S-g.png"
   },
   {
+    "name": "TrueGBP",
+    "address": "0x00000000441378008ea67f4284a57932b1c000a5",
+    "symbol": "TGBP",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/12724/large/TGBP.png"
+  },
+  {
     "name": "TrustSwap Token",
     "address": "0x3809dcDd5dDe24B37AbE64A5a339784c3323c44F",
     "symbol": "SWAP",
