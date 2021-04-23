@@ -272,6 +272,14 @@
     "logoURI": "https://etherscan.io/token/images/pepedex_32.png?v=2"
   },
   {
+    "name": "Presearch",
+    "address": "0xEC213F83defB583af3A000B1c0ada660b1902A0F",
+    "symbol": "PRE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/PresearchOfficial/presearch-brand/master/logos/svg/presearch-icon-border-blue-transparent.svg"
+  },
+  {
     "name": "Quickswap",
     "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
     "symbol": "QUICK",
