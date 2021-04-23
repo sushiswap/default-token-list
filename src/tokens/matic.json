@@ -184,6 +184,14 @@
     "logoURI": "https://aavegotchi.com/images/matokens/maLINK.svg"
   },
   {
+    "name": "Moonwolf",
+    "address": "0x8f18dC399594b451EdA8c5da02d0563c0b2d0f16",
+    "symbol": "WOLF",
+    "decimals": 9,
+    "chainId": 137,
+    "logoURI": "https://styles.redditmedia.com/t5_46eg70/styles/communityIcon_ttsr7kj1q5q61.jpg"
+  },
+  {
     "name": "Decentraland MANA",
     "address": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
     "symbol": "MANA",
