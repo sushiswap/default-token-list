@@ -88,6 +88,14 @@
     "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/assets/easyfi-token.png"
   },
   {
+    "name": "Font",
+    "address": "0x4C25Bdf026Ea05F32713F00f73Ca55857Fbf6342",
+    "symbol": "FONT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/fontcommunity/Font.community/master/logo.png"
+  },
+  {
     "name": "Frax",
     "address": "0x104592a158490a9228070E0A8e5343B499e125D0",
     "symbol": "FRAX",
