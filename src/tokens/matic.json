@@ -256,6 +256,14 @@
     "logoURI": "https://etherscan.io/token/images/cometh_32.png"
   },
   {
+    "name": "Nexo",
+    "address": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
+    "symbol": "NEXO",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://cryptologos.cc/logos/nexo-nexo-logo.svg"
+  },
+  {
     "name": "OM",
     "address": "0x9f5755D47fB80100E7ee65Bf7e136FCA85Dd9334",
     "symbol": "OM",
