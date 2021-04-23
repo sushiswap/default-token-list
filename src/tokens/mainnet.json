@@ -1248,6 +1248,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x5245C0249e5EEB2A0838266800471Fd32Adb1089/logo.png"
   },
   {
+    "address": "0x00000000441378008ea67f4284a57932b1c000a5",
+    "chainId": 1,
+    "name": "TrueGBP",
+    "symbol": "TGBP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12724/large/TGBP.png"
+  },
+  {
     "address": "0x1456688345527bE1f37E9e627DA0837D6f08C925",
     "chainId": 1,
     "name": "USDP Stablecoin",
