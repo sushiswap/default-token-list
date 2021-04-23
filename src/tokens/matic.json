@@ -1,5 +1,13 @@
 [
   {
+    "name": "Celsius",
+    "address": "0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d",
+    "symbol": "CEL",
+    "decimals": 4,
+    "chainId": 137,
+    "logoURI": "https://etherscan.io/token/images/celsiustoken1_28.png"
+  },
+  {
     "name": "decentral.games",
     "address": "0x2a93172c8DCCbfBC60a39d56183B7279a2F647b4",
     "symbol": "$DG",
