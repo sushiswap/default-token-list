@@ -1256,6 +1256,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x1456688345527bE1f37E9e627DA0837D6f08C925/logo.png"
   },
   {
+    "address": "0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d",
+    "chainId": 1,
+    "name": "Celsius",
+    "symbol": "CEL",
+    "decimals": 4,
+    "logoURI": "https://etherscan.io/token/images/celsiustoken1_28.png"
+  },
+  {
     "address": "0xC76FB75950536d98FA62ea968E1D6B45ffea2A55",
     "chainId": 1,
     "name": "COL",
