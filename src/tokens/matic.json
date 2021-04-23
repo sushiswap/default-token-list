@@ -120,6 +120,14 @@
     "logoURI": "https://aavegotchi.com/images/ghsttoken.svg"
   },
   {
+    "name": "Basic Attention Token",
+    "address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+    "symbol": "BAT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://basicattentiontoken.org/static-assets/images/bat-logo.svg"
+  },
+  {
     "name": "HEXX",
     "address": "0x23D29D30e35C5e8D321e1dc9A8a61BFD846D4C5C",
     "symbol": "HEX",
