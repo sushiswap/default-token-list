@@ -288,6 +288,14 @@
     "logoURI": "http://rebalancetoken.io/images/logo/RBAL_ERC20_small_001_256.png"
   },
   {
+    "name": "Router Protocol",
+    "address": "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4",
+    "symbol": "ROUTE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://pbs.twimg.com/profile_images/1343619589599416320/bqH1VBiG_400x400.jpg"
+  },
+  {
     "name": "Sentinel",
     "address": "0x48e3883233461C2eF4cB3FcF419D6db07fb86CeA",
     "symbol": "SENT",
