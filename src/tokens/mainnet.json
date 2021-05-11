@@ -1830,5 +1830,13 @@
     "symbol": "RAI",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4a615bB7166210CCe20E6642a6f8Fb5d4D044496",
+    "name": "NAOS Finance",
+    "symbol": "NAOS",
+    "decimals": 18,
+    "logoURI": "ipfs://QmQRgfrpV85KewHCT23Xc28LvQd2SW3B8ac1tBHCvtj5P8"
   }
 ]
