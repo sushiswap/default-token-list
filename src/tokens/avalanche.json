@@ -2918,5 +2918,13 @@
     "name": "Maker",
     "symbol": "MKR",
     "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x8DF92E9C0508aB0030d432DA9F2C65EB1Ee97620/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xE9D00cBC5f02614d7281D742E6E815A47ce31107",
+    "decimals": 9,
+    "name": "Crack.Fi",
+    "symbol": "CRACK",
+    "logoURI": "https://raw.githubusercontent.com/crackfi/logo/master/crackfi_png.png"
   }
 ]
