@@ -42,7 +42,8 @@
   {
     "chainId": 43114,
     "address": "0xC8E94215b75F5B9c3b5fB041eC3A97B7D17a37Ff",
-    "decimals": 18,
+    "decimals": 18,    "decimals": 18,
+
     "name": "0x Protocol Token",
     "symbol": "ZRX",
     "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xC8E94215b75F5B9c3b5fB041eC3A97B7D17a37Ff/logo.png"
