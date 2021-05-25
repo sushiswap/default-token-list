@@ -1,0 +1,50 @@
+[
+  {
+    "name": "WBCH Token",
+    "symbol": "WBCH",
+    "address": "0xD950381F33912d776F413692dE9FA6C09419649c",
+    "chainId": 10000,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/bitcoincash/info/logo.png"
+  },
+  {
+    "name": "USDC Token",
+    "symbol": "USDC",
+    "address": "0xc801A4862e5C877E46065d8547FdB3220fF441f5",
+    "chainId": 10000,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "name": "USDT Token",
+    "symbol": "USDT",
+    "address": "0xf27Ef8A5F894edb3Cd952342d28a864b0095E3A6",
+    "chainId": 10000,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  },
+  {
+    "name": "Koingfu Token",
+    "symbol": "Ki",
+    "address": "0xA430086f2CA2016a0cac991d1FfDe414Ae10AF4b",
+    "chainId": 10000,
+    "decimals": 18,
+    "logoURI": "https://www.koingfu.com//wp-content/plugins/customTaskManagment/image/fav.png"
+  },
+  {
+    "name": "DAI Token",
+    "symbol": "DAI",
+    "address": "0x4272D9D470e71F00aDb91FBF0eA8276959e4e15D",
+    "chainId": 10000,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+  },
+  {
+    "name": "ETH Token",
+    "symbol": "ETH",
+    "address": "0x967D7711E63e9E5Bf4AEe5df7b9d3a13717710C9",
+    "chainId": 10000,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  }
+]
