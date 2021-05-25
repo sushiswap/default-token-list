@@ -1,6 +1,6 @@
 {
   "name": "@koingfu/default-token-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "◦ The Koingfuswap default token list",
   "main": "build/koingfuswap-default.tokenlist.json",
   "scripts": {
