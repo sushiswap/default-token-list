@@ -85,7 +85,7 @@
     "symbol": "miMATIC",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://github.com/0xlaozi/qidao/blob/main/images/mimatic-red.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/f54f3429cceb2b3da448de63b52badf50ff17825/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png"
   },
   {
     "name": "Qi Dao",
@@ -93,6 +93,6 @@
     "symbol": "Qi",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://github.com/0xlaozi/qidao/blob/main/images/qi.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/f54f3429cceb2b3da448de63b52badf50ff17825/blockchains/polygon/assets/0x580A84C73811E1839F75d86d75d88cCa0c241fF4/logo.png"
   }
 ]
