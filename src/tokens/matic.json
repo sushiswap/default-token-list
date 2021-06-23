@@ -111,13 +111,21 @@
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x50B728D8D964fd00C2d0AAD81718b71311feF68a/logo.png"
   },
-  {
-    "name": "renDOGE",
-    "address": "0x7C4A54f5d20b4023D6746F1f765f4DFe7C39a7e6",
-    "symbol": "renDOGE",
-    "decimals": 8,
-    "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x7C4A54f5d20b4023D6746F1f765f4DFe7C39a7e6/logo.png"
+  { 
+    "name": "Ren DOGE",
+    "address": "0xce829a89d4a55a63418bcc43f00145adef0edb8e",   
+    "symbol": "renDOGE",   
+    "decimals": 8,   
+    "chainId": 137,   
+    "logoURI": "...logo.png" 
+  },
+  { 
+    "name": "Ren BTC",    
+    "address": "0xdbf31df14b66535af65aac99c32e9ea844e14501",    
+    "symbol": "renBTC",    
+    "decimals": 8,    
+    "chainId": 137,    
+    "logoURI": "...logo.png"  
   },
   {
     "name": "IRON Titanium",
