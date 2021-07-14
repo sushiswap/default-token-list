@@ -174,5 +174,13 @@
     "name": "LMA-Art-Gallery",
     "decimals": 18,
     "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/LMA.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xb8e0497018c991e86311b64efd9d57b06aedbbae",
+    "symbol": "VINCI",
+    "name": "DaVinci Token",
+    "decimals": 18,
+    "logoURI": "https://davinci.gallery/media/vinci_blue.png"
   }
 ]
